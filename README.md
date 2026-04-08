@@ -100,7 +100,7 @@ OpenHotel OS aims to replace complex, expensive, and locked systems with a unifi
 
 ---
 
-## 🧠 Philosophy
+## **Philosophy**
 
 Hospitality systems today are often:
 - Expensive
@@ -116,7 +116,7 @@ Hospitality systems today are often:
 
 ---
 
-## 🔮 Roadmap
+## **Roadmap**
 
 - Multi-OS client support
 - Advanced casting system
@@ -127,7 +127,7 @@ Hospitality systems today are often:
 
 ---
 
-## 💡 Concept
+##  Concept
 
 > *“It’s nice to have options as an IT Admin.”*
 
@@ -135,7 +135,7 @@ OpenHotel OS is built to give full control, flexibility, and simplicity — with
 
 ---
 
-## ⚡ Fun Note
+##  Fun Note
 
 Inspired by the idea that software should run anywhere:
 
@@ -143,6 +143,6 @@ Inspired by the idea that software should run anywhere:
 
 ---
 
-## 🏁 One-liner
+##  One-liner
 
 **OpenHotel OS** is a modern, open-source hospitality TV platform with multilingual support, hybrid UI, and full remote management.
