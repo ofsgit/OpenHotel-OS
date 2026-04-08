@@ -146,3 +146,9 @@ Inspired by the idea that software should run anywhere:
 ##  One-liner
 
 **OpenHotel OS** is a modern, open-source hospitality TV platform with multilingual support, hybrid UI, and full remote management.
+
+## Equal Opportunity Experience
+
+OpenHotel OS is built on the belief that every hospitality deployment — regardless of size or budget — should have the opportunity to deliver a 5-star experience.
+
+By removing software limitations and licensing barriers, hotels can focus on what truly matters: their guests to have a better experience.
