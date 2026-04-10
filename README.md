@@ -1,7 +1,6 @@
-# OpenHotel-OS
-<p align="center">
-  <b style="font-size:20px;">✨ My Cool Project</b><br>
-  <span style="color:gray;">Clean and modern README</span>
+# OpenHotel-OS <p align="right">
+  <b style="font-size:20px;">Project is Pending Build</b><br>
+  <span style="color:gray;">Stay tuned!</span>
 </p>
 
 **OpenHotel OS** is an open-source, multi-platform hospitality TV platform designed to deliver a fast, modern, and fully customizable guest experience.
