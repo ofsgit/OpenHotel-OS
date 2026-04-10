@@ -1,4 +1,5 @@
-# OpenHotel-OS <p align="right">
+# OpenHotel-OS 
+<p align="right">
   <b style="font-size:20px;">Project is Pending Build</b><br>
   <span style="color:gray;">Stay tuned!</span>
 </p>
