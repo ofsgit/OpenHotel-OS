@@ -175,6 +175,24 @@ Feel Free to use this open source software! Personal or Commercial Use.
 - 4GB RAM (bare minimum)
 - Startup Permission(Task Manager)
 - Monitor(Optional/System Monitoring)
+- Keyboard & Mouse (Server Setup)
+## **Order Panel (Food/Service) (Optional)**
+## **Android Build**
+- Android 4.4 (Kitkat) -> Android 9 (Pie)
+- Internet/LAN Access (WiFi/LAN)
+- Accessibility Services (Launch App on Boot)
+- 1GB RAM (bare Minimum)
+- USB Host Support(Mouse/Keyboard)
+- Bluetooth(Optional, Wireless Keyboard/Mouse)
+## **PC Build**
+- Windows 7 or Later
+- Internet/LAN Access (WiFi/LAN)
+- bare minimum driver (essential for system stability)
+- 2GB RAM (bare minimum)
+- Startup Permission(Task Manager)
+- Monitor(Order Display)
+- Touchscreen HID (or replace with Keyboard & Mouse)
+- Keyboard & Mouse (Optional)
 <p align="right">
   <b style="font-size:20px;">Project is Pending Build!</b><br>
   <span style="color:gray;">Stay tuned!</span>
