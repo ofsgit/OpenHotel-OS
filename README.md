@@ -133,7 +133,7 @@ Hospitality systems today are often:
 
 ##  Concept
 
-> *“It’s nice to have options as an IT Admin.”*
+> *“It’s nice to have options as an IT Admin, Especially if its Easy and Hassle Free.”*
 
 OpenHotel OS is built to give full control, flexibility, and simplicity — without compromising performance or user experience.
 
@@ -156,3 +156,6 @@ Inspired by the idea that software should run anywhere:
 OpenHotel OS is built on the belief that every hospitality deployment — regardless of size or budget — should have the opportunity to deliver a 5-star experience.
 
 By removing software limitations and licensing barriers, hotels can focus on what truly matters: their guests to have a better experience.
+
+## Notes from Devoloper:
+Feel Free to use this open source software! Personal or Commercial Use.
