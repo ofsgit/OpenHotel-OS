@@ -114,6 +114,7 @@ Hospitality systems today are often:
 
 **OpenHotel OS solves this by providing:**
 - Open-source flexibility
+- Documented & Easy
 - Easy deployment
 - Full administrative control
 - A better guest experience
