@@ -32,7 +32,7 @@ From the first “Hello” screen to daily guest interactions, the system is des
 
 #### **Multilingual System**
 - System-wide language support
-- Apple-style **Hello Experience** for language selection
+- **Hello Experience** for language selection
 - Dynamic language switching across UI and content
 
 #### **Media & Entertainment**
