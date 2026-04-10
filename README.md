@@ -1,6 +1,6 @@
 # OpenHotel-OS 
 <p align="right">
-  <b style="font-size:20px;">Project is Pending Build</b><br>
+  <b style="font-size:20px;">Project is Pending Build!</b><br>
   <span style="color:gray;">Stay tuned!</span>
 </p>
 
@@ -157,5 +157,26 @@ OpenHotel OS is built on the belief that every hospitality deployment — regard
 
 By removing software limitations and licensing barriers, hotels can focus on what truly matters: their guests to have a better experience.
 
-## Notes from Devoloper:
+### Notes from Devoloper:
 Feel Free to use this open source software! Personal or Commercial Use.
+
+### System Requirements:
+## **Client (TV / STB / Android)**
+- Android 4.4 (Kitkat) -> Android 9 (Pie)
+- Internet/LAN Access (WiFi/LAN)
+- Accessibility Services (Launch App on Boot, Remote Mapping)
+- 1GB RAM (bare Minimum)
+- Leanback(AndroidTV)/Any Android Device
+- Remote Control Support(IR, Bluetooth, 2.4G USB Remote)
+## **Server**
+- Windows 7 or Later
+- Internet/LAN Access (WiFi/LAN) LAN Preferred
+- bare minimum driver (essential for system stability)
+- 4GB RAM (bare minimum)
+- Startup Permission(Task Manager)
+- Monitor(Optional/System Monitoring)
+<p align="right">
+  <b style="font-size:20px;">Project is Pending Build!</b><br>
+  <span style="color:gray;">Stay tuned!</span>
+</p>
+  
